@@ -21,4 +21,6 @@
 **RESULT: DEPLOYMENT DONE (BOTH GREEN TICKS AT RHS)**
 ![1b4931e3-6f27-4aa9-a317-29468e27e7e5](https://user-images.githubusercontent.com/55132850/150643044-102e34ab-204b-4d5e-898a-72565227ca63.png)
 
+**STEP 6: To kill your services go to CloudFormation go to stacks you can see any environment and stop the same from there.**
+
 **DEPLOYED PROJECT:** [IMDB SCRAPPER](Imdbscraper-env.eba-fc43xzkw.us-east-1.elasticbeanstalk.com) 
