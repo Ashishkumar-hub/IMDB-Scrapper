@@ -23,4 +23,4 @@
 
 **STEP 6: To kill your services go to CloudFormation go to stacks you can see any environment and stop the same from there.**
 
-**DEPLOYED PROJECT:** [IMDB SCRAPPER](Imdbscraper-env.eba-fc43xzkw.us-east-1.elasticbeanstalk.com) 
+**DEPLOYED PROJECT:** [IMDB SCRAPPER](http://imdbscraper-env.eba-fc43xzkw.us-east-1.elasticbeanstalk.com/) 
